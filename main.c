@@ -7,13 +7,14 @@ Initial Function()
 
 feature1()
 {
-  //Sample Code for Feature 1
+  //Sample Code for Feature
+}
+feaature2()
+{
+  //Sample Code for Feature
 }
 Initial Security()
 {
  //Sample Code
 }
-
-
-
 }
